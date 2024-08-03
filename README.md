@@ -32,9 +32,11 @@ This Java project implements a classic Guessing Number Game, where the computer 
 - UserInputHandler.java: Utility class for handling user input
 
 *Author*
-Ipsita Moondal
+Ipsita Mondal
+
 *Linkedin*
 https://www.linkedin.com/in/ipsita-mondal-848562317?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
 *Licence*
 This project is licensed under the MIT License. See LICENSE.txt for details.
 
